@@ -1566,6 +1566,22 @@
     }
   },
   {
+			"avg_blocktime": 0.05,
+			"coin": "CDF9-BEP20",
+			"decimals": 0,
+			"mm2": 1,
+			"name": "CASE Decentralized Fund 9",
+			"protocol": {
+				"protocol_data": {
+					"contract_address": "0x32164f752190C17955fEE72FA7f144CA71DE6ee7",
+					"platform": "ETH"
+				},
+				"type": "ERC20"
+			},
+			"required_confirmations": 3,
+			"rpcport": 80
+  },
+  {
     "coin": "CDN",
     "name": "canadaecoin",
     "fname": "Canada eCoin",
