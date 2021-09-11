@@ -1566,20 +1566,212 @@
     }
   },
   {
-			"avg_blocktime": 0.05,
-			"coin": "CDF9-BEP20",
-			"decimals": 0,
-			"mm2": 1,
-			"name": "CASE Decentralized Fund 9",
-			"protocol": {
-				"protocol_data": {
-					"contract_address": "0x32164f752190C17955fEE72FA7f144CA71DE6ee7",
-					"platform": "ETH"
-				},
-				"type": "ERC20"
+		"avg_blocktime": 0.05,
+		"coin": "CDF1-BEP20",
+		"decimals": 0,
+		"mm2": 1,
+		"name": "CASE Decentralized Fund 1",
+		"protocol": {
+			"protocol_data": {
+				"contract_address": "0x7Fa4F87e796B92Ec3D9537AF995CCf0aac00c2E8",
+				"platform": "ETH"
 			},
-			"required_confirmations": 3,
-			"rpcport": 80
+			"type": "ERC20"
+		},
+		"required_confirmations": 3,
+		"rpcport": 80
+	},
+	{
+		"avg_blocktime": 0.05,
+		"coin": "CDF2-BEP20",
+		"decimals": 0,
+		"mm2": 1,
+		"name": "CASE Decentralized Fund 2",
+		"protocol": {
+			"protocol_data": {
+				"contract_address": "0x3a50cF72f942609f8F0B1cf689f54A7F9740B01E",
+				"platform": "ETH"
+			},
+			"type": "ERC20"
+		},
+		"required_confirmations": 3,
+		"rpcport": 80
+	},
+	{
+		"avg_blocktime": 0.05,
+		"coin": "CDF3-BEP20",
+		"decimals": 0,
+		"mm2": 1,
+		"name": "CASE Decentralized Fund 3",
+		"protocol": {
+			"protocol_data": {
+				"contract_address": "0xF0D81d65f51E83C1439aF338Ff59Db3EC808723f",
+				"platform": "ETH"
+			},
+			"type": "ERC20"
+		},
+		"required_confirmations": 3,
+		"rpcport": 80
+	},
+	{
+		"avg_blocktime": 0.05,
+		"coin": "CDF4-BEP20",
+		"decimals": 0,
+		"mm2": 1,
+		"name": "CASE Decentralized Fund 4",
+		"protocol": {
+			"protocol_data": {
+				"contract_address": "0x3dcBB164c327dd7769c7dEE0B14201aF124EBAe6",
+				"platform": "ETH"
+			},
+			"type": "ERC20"
+		},
+		"required_confirmations": 3,
+		"rpcport": 80
+	},
+	{
+		"avg_blocktime": 0.05,
+		"coin": "CDF5-BEP20",
+		"decimals": 0,
+		"mm2": 1,
+		"name": "CASE Decentralized Fund 5",
+		"protocol": {
+			"protocol_data": {
+				"contract_address": "0x5D30d85404E4B3B430A43127D35e9BC1E8ECB1a0",
+				"platform": "ETH"
+			},
+			"type": "ERC20"
+		},
+		"required_confirmations": 3,
+		"rpcport": 80
+	},
+	{
+		"avg_blocktime": 0.05,
+		"coin": "CDF6-BEP20",
+		"decimals": 0,
+		"mm2": 1,
+		"name": "CASE Decentralized Fund 6",
+		"protocol": {
+			"protocol_data": {
+				"contract_address": "0x130e7aB682355a3E389cbb907aaDe8e4419e77C0",
+				"platform": "ETH"
+			},
+			"type": "ERC20"
+		},
+		"required_confirmations": 3,
+		"rpcport": 80
+	},
+	{
+		"avg_blocktime": 0.05,
+		"coin": "CDF7-BEP20",
+		"decimals": 0,
+		"mm2": 1,
+		"name": "CASE Decentralized Fund 7",
+		"protocol": {
+			"protocol_data": {
+				"contract_address": "0x003B04a91285C9d20cccEa5fF37f113a592cCB55",
+				"platform": "ETH"
+			},
+			"type": "ERC20"
+		},
+		"required_confirmations": 3,
+		"rpcport": 80
+	},
+	{
+		"avg_blocktime": 0.05,
+		"coin": "CDF8-BEP20",
+		"decimals": 0,
+		"mm2": 1,
+		"name": "CASE Decentralized Fund 8",
+		"protocol": {
+			"protocol_data": {
+				"contract_address": "0xf7C3B1019d96fDeB53B634428B1477E953996315",
+				"platform": "ETH"
+			},
+			"type": "ERC20"
+		},
+		"required_confirmations": 3,
+		"rpcport": 80
+	},
+	{
+		"avg_blocktime": 0.05,
+		"coin": "CDF9-BEP20",
+		"decimals": 0,
+		"mm2": 1,
+		"name": "CASE Decentralized Fund 9",
+		"protocol": {
+			"protocol_data": {
+				"contract_address": "0x32164f752190C17955fEE72FA7f144CA71DE6ee7",
+				"platform": "ETH"
+			},
+			"type": "ERC20"
+		},
+		"required_confirmations": 3,
+		"rpcport": 80
+	},
+	{
+		"avg_blocktime": 0.05,
+		"coin": "CDF10-BEP20",
+		"decimals": 0,
+		"mm2": 1,
+		"name": "CASE Decentralized Fund 10",
+		"protocol": {
+			"protocol_data": {
+				"contract_address": "0x43A414555Dc3c9eadED5DB9B10682724c0F7e584",
+				"platform": "ETH"
+			},
+			"type": "ERC20"
+		},
+		"required_confirmations": 3,
+		"rpcport": 80
+	},
+	{
+		"avg_blocktime": 0.05,
+		"coin": "CDF11-BEP20",
+		"decimals": 0,
+		"mm2": 1,
+		"name": "CASE Decentralized Fund 11",
+		"protocol": {
+			"protocol_data": {
+				"contract_address": "0x221ED0663a990f6c8F281FA1df8EF3fe05119434",
+				"platform": "ETH"
+			},
+			"type": "ERC20"
+		},
+		"required_confirmations": 3,
+		"rpcport": 80
+	},
+	{
+		"avg_blocktime": 0.05,
+		"coin": "CDF12-BEP20",
+		"decimals": 0,
+		"mm2": 1,
+		"name": "CASE Decentralized Fund 12",
+		"protocol": {
+			"protocol_data": {
+				"contract_address": "0xfe16d3E64E08AdeeAB2Cb17Db9Ae530D19eBD595",
+				"platform": "ETH"
+			},
+			"type": "ERC20"
+		},
+		"required_confirmations": 3,
+		"rpcport": 80
+	},
+	{
+		"avg_blocktime": 0.05,
+		"coin": "CASE-BEP20",
+		"decimals": 0,
+		"mm2": 1,
+		"name": "Token CASE",
+		"protocol": {
+			"protocol_data": {
+				"contract_address": "0x5cafe85d8983f61C059df359c504F1Bab8009e9e",
+				"platform": "ETH"
+			},
+			"type": "ERC20"
+		},
+		"required_confirmations": 3,
+		"rpcport": 80
   },
   {
     "coin": "CDN",
